@@ -1,5 +1,6 @@
-<h1 align="center" style="font-size: 36px;">Hi there! 👋🏻 I'm Nalynn Kiawmanee</h1>
-<p align="center">👩🏻‍💻 An Aspiring Software Engineer from Malaysia </p>
+![MasterHead](https://64.media.tumblr.com/27e2daab277583346a1c567a16aceecb/tumblr_o169h148rC1tioc77o1_1280.png)
+<h1 align="center" style="font-size: 36px;">Hi there! 👋🏻 Nalynn Kiawmanee here!</h1>
+<p align="center">🌠 An Aspiring Software Engineer from Malaysia </p>
 
 <br>
 <br>
