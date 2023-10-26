@@ -17,6 +17,8 @@
 
 - 📫 **Reach me at: nalynnvk@gmail.com**
 
+- 🧙🏻‍♀️ **Enchanted Muggle in the World of Tech**
+
   
 <br>
 <br>
