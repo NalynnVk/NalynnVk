@@ -1,4 +1,4 @@
-![MasterHead](https://64.media.tumblr.com/27e2daab277583346a1c567a16aceecb/tumblr_o169h148rC1tioc77o1_1280.png)
+![MasterHead](https://marketplace.canva.com/EAE91Kz0wsI/1/0/1600w/canva-blue-yellow-retro-quotes-twitter-header-xTB_BZnqeew.jpg)
 <h1 align="center" style="font-size: 36px;">Hi there! 👋🏻 Nalynn Kiawmanee here!</h1>
 <p align="center">🌠 An Aspiring Software Engineer from Malaysia </p>
 
@@ -41,5 +41,5 @@
 <br>
 <blockquote>
   <p>Don't let fear get in the way and don't be afraid to say "I don't know" or "I don't understand"</p>
-  <p>no question is a dumb question - Margaret Hamilton</p>
+  <p>No question is a dumb question - Margaret Hamilton</p>
 </blockquote>
